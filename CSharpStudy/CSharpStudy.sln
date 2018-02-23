@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型", "泛型.csproj", "{78CD2655-A6E1-4F6F-A4C5-C58A78388A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型约束", "..\泛型约束\泛型约束.csproj", "{DF35C86C-07E0-426B-9DD1-A3FEBE19CF87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78CD2655-A6E1-4F6F-A4C5-C58A78388A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CD2655-A6E1-4F6F-A4C5-C58A78388A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CD2655-A6E1-4F6F-A4C5-C58A78388A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CD2655-A6E1-4F6F-A4C5-C58A78388A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF35C86C-07E0-426B-9DD1-A3FEBE19CF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF35C86C-07E0-426B-9DD1-A3FEBE19CF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF35C86C-07E0-426B-9DD1-A3FEBE19CF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF35C86C-07E0-426B-9DD1-A3FEBE19CF87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
